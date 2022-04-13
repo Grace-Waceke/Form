@@ -1,0 +1,31 @@
+body{
+
+}
+.Registration-Form{
+    margin-top: 5%;
+    padding-left: 40%;
+}
+.Registration-Form h1{
+    text-transform: uppercase;
+    margin: 40px 0;
+    font-size: large;
+}
+.Registration-Form p{
+    margin: 25px 0;
+    font-size: large;
+}
+.Registration-Form input{
+    font-size: 15px;
+    width: 30%;
+    border-radius: 10px;
+    outline: 2px solid blue;
+}
+.Registration-Form button{
+    margin: 10px 15px;
+    /* padding: 10px 30px; */
+    font-size: 15px;
+    width: 30px;
+    border: 0;
+    padding-top: 30px;
+
+}
